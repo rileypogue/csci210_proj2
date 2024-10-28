@@ -60,7 +60,7 @@ void mkdir(char pathName[]){
 	 }
 
     // print message to show directory has been created
-    printf("MKDIR SUCCESS: node %s successfully created\n", baseName);
+    printf("MKDIR SUCCESS: node %s successfully created\n", pathName);
 
     return;
 }
